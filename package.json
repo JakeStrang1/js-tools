@@ -1,6 +1,6 @@
 {
   "name": "@jakestrang1/js-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Miscellaneous javascript utilities",
   "main": "src/index.js",
   "type": "module",
