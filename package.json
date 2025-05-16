@@ -1,0 +1,23 @@
+{
+  "name": "@jakestrang1/js-tools",
+  "version": "0.0.1",
+  "description": "Miscellaneous javascript utilities",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeStrang1/js-tools.git"
+  },
+  "author": "Jake Strang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakeStrang1/js-tools/issues"
+  },
+  "homepage": "https://github.com/JakeStrang1/js-tools#readme",
+  "dependencies": {
+    "lodash": "^4.17.17"
+  }
+}
